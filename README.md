@@ -40,7 +40,7 @@
 .                                                                     
 ```
 
-  <img src="./assets/ascii_anim.svg" alt="ascii portrait animated" width="450"/>
+  <img src="./assets/ascii_anim.gif" alt="ascii portrait animated" width="450"/>
 </div>
 
 # 💫 About Me:
