@@ -1,8 +1,3 @@
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/vorlon-dev/vorlon-dev/f770ecc0c06b275113f3f0f6a9ee5dcffaf1a481/ascii_anim.svg" alt="ascii portrait animated" width="450"/>
-</div>
-
 # 💫 About Me:
 Hi there 👋 I'm Pratam Narvekar<br><br>A Flutter & Kotlin full‑stack developer who loves crafting smooth, beautiful, and crazy good mobile experiences.<br>I turn ideas into real apps, from UI to backend.<br><br>🔭 I’m currently working on – building cross‑platform apps with Flutter & Kotlin  <br>👯 I’m looking to collaborate on – open‑source Flutter/Kotlin projects & innovative app ideas  <br>🤝 I’m looking for help with– advanced Kotlin Multiplatform and backend scaling  <br>🌱 I’m currently learning– advanced full‑stack patterns, system design, and maybe a bit of Rust  <br>💬 Ask me about – Flutter, Kotlin, clean architecture, state management, and building MVPs fast  <br>⚡ Fun fact – I debug code faster than I brew coffee ☕  <br><br>📫 Reach me: pratamnarvekar@gmail.com<br></> & Crafted with 💛 Pratam Narvekar
 
