@@ -1,47 +1,47 @@
-<div align="center">
-
-```
-.............                                              ...........
-.............                                              ...........
-............                                                ..........
-..........                                                  ...:::::::
-........                                 ..                 .:::::::::
-...........                               .... .......      .:::::::::
-.........                                    ...........     :::::::::
-.........                                      ...........   :::::::::
-........ ..                                      ..........  .:----:::
-...........                                        . ......  .:-------
-........                                              ......  :-------
-...........                                             .......-------
-...........                              .         ..    ......:------
-.........:.                             ...        ....   .....:------
-......:::::.                           ..::.        ::.     ....------
-.....::::::.            ...       ....:::-:.    .-:--:        ..:==---
-....:::::::.           ...        ..::::::.  . .=++-           .:-===-
-...::::::::.           .::::....:..:::::::::::==-.              .:====
-...::::::::.           .::::::---=-:::::::::-+*+:                .-===
-..:::::::::.            :::::::---:::::::::-+*+-.               .:====
-.::::::::::.             :::::::::::::::::-+*+:-=-.           ..:=====
-:::::::::-:.              .::::::::::::::-=+-.:+**=         ...-=+====
-::::::::---.                 .::::::::::---. :++++-.      ....-++++===
-:::::::----:.                  .::::::::.   .----::.    ....  .-++++==
-::::::--------:.                 .::::.    :::::::::.  ...      .-=++=
-:::::------=====-:                       .:::::::::  ....         .-==
-::::------====-:                        .::::::::.  .....     .....:=+
-:::------=====:                  .    .:::::::::   ... .           -==
-:::----====-:.                  ....::::::::::.   ..  ..             .
-::------:.                     .....:::::::..        .. ...     ...   
-:----:.                        ....:--::..         ... ...    ....    
----:.                            ..:..          ....   .    ......    
---:                                              ...       ...........
---.                                                       ............
--:                                                        ......   .  
-:.                                                         ...        
-.                                                                     
-```
-
-  <img src="./assets/ascii_anim.gif" alt="ascii portrait animated" width="450"/>
-</div>
+<svg width="459" height="508" viewBox="0 0 459 508" xmlns="http://www.w3.org/2000/svg">
+<rect width="459" height="508" fill="#0d1117" rx="8"/>
+<text x="16" y="28" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">.............                                              ...........<animate attributeName="opacity" from="0" to="1" begin="0.0s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="40" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">.............                                              ...........<animate attributeName="opacity" from="0" to="1" begin="0.045s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="52" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">............                                                ..........<animate attributeName="opacity" from="0" to="1" begin="0.09s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="64" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">..........                                                  ...:::::::<animate attributeName="opacity" from="0" to="1" begin="0.135s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="76" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">........                                 ..                 .:::::::::<animate attributeName="opacity" from="0" to="1" begin="0.18s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="88" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">...........                               .... .......      .:::::::::<animate attributeName="opacity" from="0" to="1" begin="0.225s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="100" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">.........                                    ...........     :::::::::<animate attributeName="opacity" from="0" to="1" begin="0.27s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="112" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">.........                                      ...........   :::::::::<animate attributeName="opacity" from="0" to="1" begin="0.315s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="124" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">........ ..                                      ..........  .:----:::<animate attributeName="opacity" from="0" to="1" begin="0.36s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="136" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">...........                                        . ......  .:-------<animate attributeName="opacity" from="0" to="1" begin="0.405s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="148" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">........                                              ......  :-------<animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="160" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">...........                                             .......-------<animate attributeName="opacity" from="0" to="1" begin="0.495s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="172" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">...........                              .         ..    ......:------<animate attributeName="opacity" from="0" to="1" begin="0.54s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="184" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">.........:.                             ...        ....   .....:------<animate attributeName="opacity" from="0" to="1" begin="0.585s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="196" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">......:::::.                           ..::.        ::.     ....------<animate attributeName="opacity" from="0" to="1" begin="0.63s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="208" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">.....::::::.            ...       ....:::-:.    .-:--:        ..:==---<animate attributeName="opacity" from="0" to="1" begin="0.675s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="220" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">....:::::::.           ...        ..::::::.  . .=++-           .:-===-<animate attributeName="opacity" from="0" to="1" begin="0.72s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="232" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">...::::::::.           .::::....:..:::::::::::==-.              .:====<animate attributeName="opacity" from="0" to="1" begin="0.765s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="244" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">...::::::::.           .::::::---=-:::::::::-+*+:                .-===<animate attributeName="opacity" from="0" to="1" begin="0.81s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="256" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">..:::::::::.            :::::::---:::::::::-+*+-.               .:====<animate attributeName="opacity" from="0" to="1" begin="0.855s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="268" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">.::::::::::.             :::::::::::::::::-+*+:-=-.           ..:=====<animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="280" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">:::::::::-:.              .::::::::::::::-=+-.:+**=         ...-=+====<animate attributeName="opacity" from="0" to="1" begin="0.945s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="292" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">::::::::---.                 .::::::::::---. :++++-.      ....-++++===<animate attributeName="opacity" from="0" to="1" begin="0.99s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="304" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">:::::::----:.                  .::::::::.   .----::.    ....  .-++++==<animate attributeName="opacity" from="0" to="1" begin="1.035s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="316" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">::::::--------:.                 .::::.    :::::::::.  ...      .-=++=<animate attributeName="opacity" from="0" to="1" begin="1.08s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="328" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">:::::------=====-:                       .:::::::::  ....         .-==<animate attributeName="opacity" from="0" to="1" begin="1.125s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="340" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">::::------====-:                        .::::::::.  .....     .....:=+<animate attributeName="opacity" from="0" to="1" begin="1.17s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="352" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">:::------=====:                  .    .:::::::::   ... .           -==<animate attributeName="opacity" from="0" to="1" begin="1.215s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="364" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">:::----====-:.                  ....::::::::::.   ..  ..             .<animate attributeName="opacity" from="0" to="1" begin="1.26s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="376" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">::------:.                     .....:::::::..        .. ...     ...   <animate attributeName="opacity" from="0" to="1" begin="1.305s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="388" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">:----:.                        ....:--::..         ... ...    ....    <animate attributeName="opacity" from="0" to="1" begin="1.35s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="400" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">---:.                            ..:..          ....   .    ......    <animate attributeName="opacity" from="0" to="1" begin="1.395s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="412" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">--:                                              ...       ...........<animate attributeName="opacity" from="0" to="1" begin="1.44s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="424" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">--.                                                       ............<animate attributeName="opacity" from="0" to="1" begin="1.485s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="436" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">-:                                                        ......   .  <animate attributeName="opacity" from="0" to="1" begin="1.53s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="448" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">:.                                                         ...        <animate attributeName="opacity" from="0" to="1" begin="1.575s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="460" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">.                                                                     <animate attributeName="opacity" from="0" to="1" begin="1.62s" dur="0.25s" fill="freeze"/></text>
+<text x="16" y="472" font-family="Consolas, Menlo, monospace" font-size="10" fill="#7ce6c4" xml:space="preserve" opacity="0">                                                                      <animate attributeName="opacity" from="0" to="1" begin="1.665s" dur="0.25s" fill="freeze"/></text>
+<rect x="16" y="476" width="8" height="12" fill="#7ce6c4" opacity="0">
+<animate attributeName="opacity" values="0;1;0" dur="1s" begin="2.11s" repeatCount="indefinite"/>
+</rect>
+</svg>
 
 # 💫 About Me:
 Hi there 👋 I'm Pratam Narvekar<br><br>A Flutter & Kotlin full‑stack developer who loves crafting smooth, beautiful, and crazy good mobile experiences.<br>I turn ideas into real apps, from UI to backend.<br><br>🔭 I’m currently working on – building cross‑platform apps with Flutter & Kotlin  <br>👯 I’m looking to collaborate on – open‑source Flutter/Kotlin projects & innovative app ideas  <br>🤝 I’m looking for help with– advanced Kotlin Multiplatform and backend scaling  <br>🌱 I’m currently learning– advanced full‑stack patterns, system design, and maybe a bit of Rust  <br>💬 Ask me about – Flutter, Kotlin, clean architecture, state management, and building MVPs fast  <br>⚡ Fun fact – I debug code faster than I brew coffee ☕  <br><br>📫 Reach me: pratamnarvekar@gmail.com<br></> & Crafted with 💛 Pratam Narvekar
